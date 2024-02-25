@@ -1,0 +1,10 @@
+{
+  "registry.terraform.io/-/github": {
+    "hash": "h1:Tlnk6Pc5i82g0Dyck/hoKDUJpa42HRJ89zep/akcyDo=",
+    "version": "4.19.0"
+  },
+  "registry.terraform.io/hashicorp/github": {
+    "hash": "h1:Tlnk6Pc5i82g0Dyck/hoKDUJpa42HRJ89zep/akcyDo=",
+    "version": "4.19.0"
+  }
+}
