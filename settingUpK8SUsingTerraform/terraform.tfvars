@@ -1,0 +1,12 @@
+
+gcp_project_id  = "infra-333911"
+region          = "us-west2"
+credentials     = "infra-33.json"
+env_name        = "test"
+cidr_range      = "10.10.0.0/24"
+nodecount      = "1"
+machine         = "e2-medium"
+ports           = "8080"
+targetport      = "80"
+imagename       = "nginx:1.14.2"
+containerport   = "80"
